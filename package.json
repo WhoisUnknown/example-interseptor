@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@mswjs/interceptors": "^0.23.0",
+    "@mswjs/interceptors": "^0.36.10",
     "https-proxy-agent": "^7.0.1",
     "ts-node": "^10.9.1"
   }
